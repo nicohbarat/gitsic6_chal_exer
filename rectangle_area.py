@@ -1,6 +1,6 @@
 def calculate_area(length, width):
   """Calculates the area of a rectangle."""
-  return length + width  # Bug: Should be multiplication
+  return length * width  # Bug: Should be multiplication
  
 # Example usage (for testing)
 length = 5
